@@ -4,6 +4,7 @@ Introduction to Computer Graphics
 ###### Instructor:
 Assist. Prof. Dr. Gizem KAYAR
 
+
 ###### Assignment1
 - SPHERE TESELLATION FROM ICOSAHEDRON
 - GRAPHICS PIPELINE
